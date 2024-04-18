@@ -1,4 +1,4 @@
-name: CI
+name: Windows - Iperius Remote
 
 on:
   workflow_dispatch:
